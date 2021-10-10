@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+FUn faCt: The universe is a potato.
+
+
 <!--
 **Ein04/Ein04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
