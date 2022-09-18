@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-FUn faCt: The universe is a potato.
+The universe is a potato.
 
 
 <!--
